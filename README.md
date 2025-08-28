@@ -8,6 +8,10 @@ The goal of this project is to leverage NYC taxi trip data to enhance operationa
 •	Provide insights for stakeholders – Deliver clean, structured, and aggregated data for easy consumption in Power BI to support business decision-making.
 ________________________________________
 2️⃣ Architecture & Tech Stack
+**Architecture:**
+<img width="823" height="484" alt="image" src="https://github.com/user-attachments/assets/74a01106-4633-4a9b-9f80-e92fb9170016" />
+
+
 Tools & Services Used:
 •	Data Ingestion: Azure Data Factory (ADF) (REST API ingestion)
 •	Storage: Azure Data Lake Storage (ADLS) (Bronze, Silver, Gold layers)
