@@ -59,4 +59,7 @@ ________________________________________
 •	Built Power BI Dashboards for data visualization and analytics.
 ________________________________________
 6️⃣ Business Impact & Outcomes
-✅ Optimized trip analysis – Identified peak hours & routes. ✅ Improved performance – Queries run 5x faster with Delta Lake. ✅ Cost-efficient storage – Reduced costs by using optimized formats. ✅ Scalable solution – Handles real-time and batch processing.
+✅ Optimized trip analysis – Identified peak hours & routes. 
+✅ Improved performance – Queries run 5x faster with Delta Lake. 
+✅ Cost-efficient storage – Reduced costs by using optimized formats.
+✅ Scalable solution – Handles real-time and batch processing.
